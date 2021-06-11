@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy Cox @Apcox89
 - 👀 I’m interested in computer programming.
-- 🌱 I’m currently learning Java, C#, API design, and SOLID principles.
-- 💞️ I’m looking to collaborate on open source projects using these frameworks.
+- 🌱 I’m currently learning Java, C#, API design, and SOLID principles. I have a good understanding of HTML/CSS, and React is one of my favorite frameworks.
+- 💞️ I’m looking to collaborate on open source projects using these frameworks or languages.
 - 📫 You may reach me at: apcox89@gmail.com
 
 <!---
