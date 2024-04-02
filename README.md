@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Andy Cox @Apcox89
-- 👀 I’m a computer programmer and also a musician (drummer).
 - 🌱 I’m currently a Full-Stack-Software-Developer.
 - ++ I have a good understanding of application development w/ HTML/CSS, C#/.Net, Angular/React, and JavaScript(JS)!
 - 💞️ I’m looking to collaborate on open source projects using these frameworks or languages.
